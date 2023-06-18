@@ -1,0 +1,114 @@
+.wrapper {
+    display: flex;
+}
+
+.stick {
+    background-color: brown;
+    height: 1000px;
+    width: 10px;
+}
+.flag {
+    background-color: orange;
+    width: 900px;
+    height: 600px;
+    position: relative;
+}
+.mid {
+    background-color: white;
+    height: 200px;
+    width: 900px;
+    position: absolute;
+    top: 200px;
+}
+.bottom {
+    background-color: green;
+    height: 200px;
+    width: 900px;
+    position: absolute;
+    top: 400px;
+}
+.wheel {
+    border-radius: 50%;
+    border: 5px solid blue;
+    height: 190px;
+    width: 190px;
+    left: 350px;
+    position: absolute;
+}
+.a {
+    border: 3px solid blue;
+    position: relative;
+    transform: rotate(90deg);
+    top: 93px;
+}
+.b {
+    border: 3px solid blue;
+    position: relative;
+    top: 84px;
+}
+.c {
+    border: 3px solid blue;
+    position: relative;
+    transform: rotate(15deg);
+    top: 80px;
+    left: 1px;
+}
+.d {
+    border: 3px solid blue;
+    position: relative;
+    transform: rotate(30deg);
+    top: 76px;
+    left: 1.5px;
+}
+.e {
+    border: 3px solid blue;
+    position: relative;
+    transform: rotate(45deg);
+    top: 72px;
+    left: 1.5px;
+}
+.f {
+    border: 3px solid blue;
+    position: relative;
+    transform: rotate(60deg);
+    top: 68px;
+    left: 1px;
+}
+.g {
+    border: 3px solid blue;
+    position: relative;
+    transform: rotate(75deg);
+    top: 64px;
+
+}
+.h {
+    border: 3px solid blue;
+    position: relative;
+    transform: rotate(105deg);
+    top: 59px;
+}
+.i {
+    border: 3px solid blue;
+    position: relative;
+    transform: rotate(120deg);
+    top: 54px;
+}
+.j {
+    border: 3px solid blue;
+    position: relative;
+    transform: rotate(135deg);
+    top: 49px;
+}
+.k {
+    border: 3px solid blue;
+    position: relative;
+    transform: rotate(150deg);
+    top: 42px;
+    right: 1px;
+}
+.l {
+    border: 3px solid blue;
+    position: relative;
+    transform: rotate(165deg);
+    top: 37px;
+}
