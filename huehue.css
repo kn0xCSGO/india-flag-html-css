@@ -1,0 +1,113 @@
+.wrapper {
+    display: flex;
+}
+
+.stick {
+    background-color: brown;
+    height: 1000px;
+    width: 10px;
+}
+.flag {
+    background-color: orange;
+    width: 900px;
+    height: 600px;
+    position: relative;
+}
+.mid {
+    background-color: white;
+    height: 200px;
+    width: 900px;
+    position: absolute;
+    top: 200px;
+}
+.bottom {
+    background-color: green;
+    height: 200px;
+    width: 900px;
+    position: absolute;
+    top: 400px;
+}
+.wheel {
+    border-radius: 50%;
+    border: 5px solid blue;
+    height: 190px;
+    width: 190px;
+    left: 350px;
+    position: absolute;
+}
+.a {
+    border: 2px solid blue;
+    top: 90px;
+    position: relative;
+  }
+  .b {
+    border: 2px solid blue;
+    transform: rotate(90deg);
+    top: 89px;
+    position: relative;
+  }
+  .c {
+    border: 2px solid blue;
+    transform: rotate(15deg);
+    top: 82px;
+    left: 1px;
+    position: relative;
+  }
+  .d {
+    border: 2px solid blue;
+    transform: rotate(30deg);
+    top: 79px;
+    position: relative;
+    left: 1px;
+  }
+  .e {
+    border: 2px solid blue;
+    transform: rotate(45deg);
+    top: 75px;
+    position: relative;
+    left: 1px;
+  }
+  .f {
+    border: 2px solid blue;
+    transform: rotate(60deg);
+    position: relative;
+    top: 73px;
+  }
+  .g {
+    border: 2px solid blue;
+    transform: rotate(75deg);
+    position: relative;
+    top: 69px;
+  }
+  .h {
+    border: 2px solid blue;
+    transform: rotate(105deg);
+    position: relative;
+    top: 64px;
+  }
+  .i {
+    border: 2px solid blue;
+    transform: rotate(120deg);
+    position: relative;
+    top: 60px;
+  }
+  
+  .j {
+    border: 2px solid blue;
+    transform: rotate(135deg);
+    position: relative;
+    top: 56px;
+  }
+  .k {
+    border: 2px solid blue;
+    transform: rotate(150deg);
+    position: relative;
+    top: 52px;
+  }
+  .l {
+    border: 2px solid blue;
+    transform: rotate(165deg);
+    position: relative;
+    top: 48px;
+  }
+  
